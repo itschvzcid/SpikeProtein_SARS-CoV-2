@@ -9,15 +9,15 @@ La aparición de la nueva cepa de coronavirus SARS-CoV-2 ha puesto al mundo de r
 > La realización de un análisis filogenético consiste en establecer las relaciones de ancestría - descendencia entre diferentes especies empleando para ello secuencias de nucleótidos o aminoácidos de una región en específico o del genoma
 completo.  
 *(Bioinformatics at COMAV)*
-El presente trabajo tiene como objetivo realizar un análisis de carácter filogenético basado en el artículo: **The receptor binding domain of SARS-CoV-2 spike protein is the result of an ancestral recombination between the bat-CoV RaTG13 and the pangolin-CoV MP789. (Flores, et al. 2020).** 
+El presente trabajo tiene como objetivo realizar un análisis de carácter filogenético basado en el artículo: **The receptor binding domain of SARS-CoV-2 spike protein is the result of an ancestral recombination between the bat-CoV RaTG13 and the pangolin-CoV MP789. (Flores, et al. 2020).**
 
-Como panorama general es importante mencionar que el SARS-CoV-2 se encuentra dentro del orden *Nidovirales*, familia *Coronaviridae*, subfamilia *Coronavirinae*. Esta última incluye cuatro géneros: 
-> *alfa -, beta - , gamma - y deltacoronavirus* (α-, β-, γ- y δ-CoV) 
+Como panorama general es importante mencionar que el SARS-CoV-2 se encuentra dentro del orden *Nidovirales*, familia *Coronaviridae*, subfamilia *Coronavirinae*. Esta última incluye cuatro géneros:
+> *alfa -, beta - , gamma - y deltacoronavirus* (α-, β-, γ- y δ-CoV)
 *(Hulswit, 2016)*
 
 El agente causante de la enfermedad Covid-19 pertenece a la **subfamilia de los deltacoronavirus *(Pillay, 2010)***. El estudio de las ya mencionadas subfamilias de coronavirus es de gran relevancia ya que estas especies son capaces de infectar a una amplia gama de huéspedes, entre los que se encuentran mamíferos, aves y por supuesto; el ser humano.
 
-Como se mencionó al inicio, la realización de una filogenia puede hacer uso de una región en específico del genoma. Por la relevancia que tiene en el mecanismo de infección para ocasionar la enfermedad Covid-19 se empleará a la denominada **Proteína S (protein spike)** en el presente trabajo. Estructuralmente, la proteína S se divide  en dos subunidades funcionalmente distintas: 
+Como se mencionó al inicio, la realización de una filogenia puede hacer uso de una región en específico del genoma. Por la relevancia que tiene en el mecanismo de infección para ocasionar la enfermedad Covid-19 se empleará a la denominada **Proteína S (protein spike)** en el presente trabajo. Estructuralmente, la proteína S se divide  en dos subunidades funcionalmente distintas:
 
 > **La subunidad S1:**  involucrada en el reconocimiento del receptor.
 > **La subunidad 2:** responsable de la fusión de la envoltura viral y la membrana  de la célula huésped.
@@ -34,6 +34,9 @@ Reproducir un árbol filogenético de la proteína S de diferentes coronavirus p
 
 Eventos de zoonosis han sido documentados como agentes causales de pandemias. Dado que SARS-CoV-2 tiene su origen en coronavirus de murciélagos, los resultados deberán mostrar una estrecha relación entre SARS-CoV-2 y distintos coronavirus cuyo huésped son murciélagos.
 
+### Diagrama metodológico
+
+![Diagrama](../meto.jpg)
 
 ### Análisis de resultados
 

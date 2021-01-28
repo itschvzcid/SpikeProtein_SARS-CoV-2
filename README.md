@@ -36,7 +36,7 @@ Eventos de zoonosis han sido documentados como agentes causales de pandemias. Da
 
 ### Diagrama metodológico
 
-![Diagrama](../meto.jpg)
+![Diagrama](./figures/meto.jpg)
 
 ### Análisis de resultados
 

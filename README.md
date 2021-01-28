@@ -9,7 +9,6 @@ La aparición de la nueva cepa de coronavirus SARS-CoV-2 ha puesto al mundo de r
 > La realización de un análisis filogenético consiste en establecer las relaciones de ancestría - descendencia entre diferentes especies empleando para ello secuencias de nucleótidos o aminoácidos de una región en específico o del genoma
 completo.  
 *(Bioinformatics at COMAV)*
-
 El presente trabajo tiene como objetivo realizar un análisis de carácter filogenético basado en el artículo: **The receptor binding domain of SARS-CoV-2 spike protein is the result of an ancestral recombination between the bat-CoV RaTG13 and the pangolin-CoV MP789. (Flores, et al. 2020).** 
 
 Como panorama general es importante mencionar que el SARS-CoV-2 se encuentra dentro del orden *Nidovirales*, familia *Coronaviridae*, subfamilia *Coronavirinae*. Esta última incluye cuatro géneros: 
@@ -25,6 +24,16 @@ Como se mencionó al inicio, la realización de una filogenia puede hacer uso de
 (Hulswit, 2016)
 
 En literatura especializada se ha reportado que el genoma del SARS-CoV-2 es 96% idéntico al del coronavirus de murciélago (BatCoV) RaTG13 y 80% idéntico al genoma del SARS-CoV. Mientras que la proteína S de SARS-CoV-2 muestra una identidad de aminoácidos del 93% y 97% con la de BatCoV RaTG13 y Pangolin-CoV respectivamente, lo que ayuda a sustentar con gran certeza el origen de los huéspedes intermediarios de SARS-CoV-2. ***(Pillay, 2020)***
+
+### Objetivo
+
+Reproducir un árbol filogenético de la proteína S de diferentes coronavirus para validar el evento de zoonosis que da origen al SARS-CoV-2.
+
+
+### Hipótesis
+
+Eventos de zoonosis han sido documentados como agentes causales de pandemias. Dado que SARS-CoV-2 tiene su origen en coronavirus de murciélagos, los resultados deberán mostrar una estrecha relación entre SARS-CoV-2 y distintos coronavirus cuyo huésped son murciélagos.
+
 
 ### Análisis de resultados
 

@@ -48,9 +48,12 @@ La falta de conocimiento y experiencia en la elección de los valores para difer
 
 ### Conclusiones
 
-No fue posible acceder a la gran mayoría del conjunto de datos empleados para la reproducción del árbol filogenético.
+El objetivo planeado para el presente trabajo fue alcanzado parcialmente, ya que si bien el árbol filogenético refleja una relación entre coronavirus que infectan a murciélagos y al ser humano, no se fue posible visualizar el proceso de zoonosis con el pangolin como intermedario. Además, se logró dar seguimiento a la metodología reportada en el artículo base, sin embargo es importante resaltar las áreas de oportunidad que se tuvieron durante este trabajo.
 
-El objetivo planteado para el presente trabajo no fue alcanzado debido a que el acceso a las secuencias reportadas en el artículo base fue limitado y además de la metodología enunciada en dicho artículo no se encontraba descrita claramente. Por otro lado, es importante resaltar que descubrimos la gran importancia de contar con recursos de alto poder computacional para poder ejecutar un mayor número de escenarios.
++ El acceso a las secuencias reportadas en el artículo base fue limitado.
++ Las etapas que conformaron la metodología enunciada en dicho artículo no se encontraron descritas claramente.
++ Contar con recursos de alto poder computacional para poder ejecutar un mayor número de escenarios.
++ No fue posible acceder a la gran mayoría del conjunto de datos empleados para la reproducción del árbol filogenético.
 
 
 ### Literatura consultada:

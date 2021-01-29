@@ -56,10 +56,17 @@ El objetivo planeado para el presente trabajo fue alcanzado parcialmente, ya que
 + No fue posible acceder a la gran mayoría del conjunto de datos empleados para la reproducción del árbol filogenético.
 
 
-### Literatura consultada:
+### Literatura consultada
 
 + Hulswit, R. J., de Haan, C. A., & Bosch, B. J. (2016). Coronavirus Spike Protein and Tropism Changes. Advances in virus research, 96, 29–57. https://doi.org/10.1016/bs.aivir.2016.08.004
 + Du, L., He, Y., Zhou, Y., Liu, S., Zheng, B. J., & Jiang, S. (2009). The spike protein of SARS-CoV--a target for vaccine and therapeutic development. Nature reviews. Microbiology, 7(3), 226–236. https://doi.org/10.1038/nrmicro2090
 + Pillay, TS. (2020) Gene of the month: the 2019-nCoV/SARS-CoV-2 novel coronavirus spike protein. Journal of Clinical Pathology, 366-369. 10.1136/jclinpath-2020-206658
 + Bioinformatics at COMAV. (s.f) Filogenias. Consultado el 24 de enero de 2021. Recuperado de: https://bioinf.comav.upv.es/courses/intro_bioinf/index.html
 + Flores-Alanis, A., Sandner-Miranda, L., Delgado, G. et al. (2020). The receptor binding domain of SARS-CoV-2 spike protein is the result of an ancestral recombination between the bat-CoV RaTG13 and the pangolin-CoV MP789. BMC Res Notes 13, 398. https://doi.org/10.1186/s13104-020-05242-8
+
+### Software usado
+
++ JModelTest2 v2.1.10 https://github.com/ddarriba/jmodeltest2
++ Clustal Omega https://www.ebi.ac.uk/Tools/msa/clustalo/
++ MrBayes 3.2.7 https://nbisweden.github.io/MrBayes/download.html
++ Figtree 2018-11-25 - v1.4.4 http://tree.bio.ed.ac.uk/software/figtree/
